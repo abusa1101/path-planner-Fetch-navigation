@@ -1,0 +1,8 @@
+prefix=/home/anviksha/catkin_ws/devel
+
+Name: rrt_planner_anvi
+Description: Description of rrt_planner_anvi
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
